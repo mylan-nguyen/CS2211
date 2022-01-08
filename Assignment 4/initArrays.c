@@ -1,8 +1,6 @@
 /* CS2211a 2021 */
 /* Assignment 04 */
 /* Mylan Nguyen */
-/* 251155416 */
-/* mnguy246 */
 /* November 10, 2021 */
 
 
